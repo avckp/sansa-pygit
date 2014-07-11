@@ -17,6 +17,7 @@ Commiting from github.com
 >>> z.total_objects  
 3L  
 
-Editing to check status  
-Editing to check status once again
-Editing to check status once again again
+Editing to check status    
+Editing to check status once again    
+Editing to check status once again again  
+Editing to check status once again again again  
